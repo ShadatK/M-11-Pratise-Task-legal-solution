@@ -132,4 +132,25 @@
   background-size: cover, cover;
 }
 
+.clients {
+  background-image: 
+    url('images/Rectangle\ 7.png'),
+    url('images/slider-1.jpg');
+
+  background-repeat: no-repeat, no-repeat;
+
+  background-position: center, center;
+
+  background-size: cover, cover;
+}
+.client-pic {
+  background-image: url('images/Azaan\ Passport\ size\ pic.jpeg');
+  width: 70px;
+  height: 70px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
  /* bg-[url('/images/banner.png')] bg-no-repeat bg-center bg-contain */
